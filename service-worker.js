@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/KimTrijnh/timeline_panel/precache-manifest.c382105a9cd72d41747efe8ae45fd410.js"
+  "/timeline_panel/precache-manifest.6f81d9f1c297bb0b9aada0c3eb98d6ca.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/KimTrijnh/timeline_panel/index.html", {
+workbox.routing.registerNavigationRoute("/timeline_panel/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

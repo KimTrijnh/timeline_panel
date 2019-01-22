@@ -1,13 +1,13 @@
 {
-  "main.css": "/KimTrijnh/timeline_panel/static/css/main.fa04e84f.chunk.css",
-  "main.js": "/KimTrijnh/timeline_panel/static/js/main.acdb76f4.chunk.js",
-  "main.js.map": "/KimTrijnh/timeline_panel/static/js/main.acdb76f4.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "/KimTrijnh/timeline_panel/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "/KimTrijnh/timeline_panel/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "/KimTrijnh/timeline_panel/static/js/runtime~main.d4d08354.js",
-  "runtime~main.js.map": "/KimTrijnh/timeline_panel/static/js/runtime~main.d4d08354.js.map",
-  "static/css/main.fa04e84f.chunk.css.map": "/KimTrijnh/timeline_panel/static/css/main.fa04e84f.chunk.css.map",
-  "index.html": "/KimTrijnh/timeline_panel/index.html",
-  "precache-manifest.c382105a9cd72d41747efe8ae45fd410.js": "/KimTrijnh/timeline_panel/precache-manifest.c382105a9cd72d41747efe8ae45fd410.js",
-  "service-worker.js": "/KimTrijnh/timeline_panel/service-worker.js"
+  "main.css": "/timeline_panel/static/css/main.fa04e84f.chunk.css",
+  "main.js": "/timeline_panel/static/js/main.acdb76f4.chunk.js",
+  "main.js.map": "/timeline_panel/static/js/main.acdb76f4.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/timeline_panel/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/timeline_panel/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/timeline_panel/static/js/runtime~main.f4eca4fb.js",
+  "runtime~main.js.map": "/timeline_panel/static/js/runtime~main.f4eca4fb.js.map",
+  "static/css/main.fa04e84f.chunk.css.map": "/timeline_panel/static/css/main.fa04e84f.chunk.css.map",
+  "index.html": "/timeline_panel/index.html",
+  "precache-manifest.6f81d9f1c297bb0b9aada0c3eb98d6ca.js": "/timeline_panel/precache-manifest.6f81d9f1c297bb0b9aada0c3eb98d6ca.js",
+  "service-worker.js": "/timeline_panel/service-worker.js"
 }
